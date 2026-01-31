@@ -1,10 +1,9 @@
 
 # Web app
 streamlit==1.31.0
-
 # Core scientific stack (versions known to play well together on Cloud)
 pandas==2.1.4
-
 # PyCaret (auto-ML). This version avoids recent dependency breakages.
 pycaret==3.3.2
+
 
