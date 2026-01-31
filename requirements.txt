@@ -2,10 +2,11 @@ streamlit
 pycaret==3.0.2
 pandas==1.5.3
 numpy==1.23.5
-scikit-learn==1.2.2
+scikit-learn==1.1.3
 scipy==1.9.3
 joblib==1.2.0
 python-dateutil==2.8.2
+
 
 
 
